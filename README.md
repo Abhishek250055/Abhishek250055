@@ -1,6 +1,6 @@
 [![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)]
 <h1 align="center">Hi 👋, I'm Abhishek Bisen</h1>
-<h3 align="center">A passionate machine learning from India</h3>
+<h3 align="center">A passionate in machine learning</h3>
 <img aling="left" alt="coding" width="400" src="https://i0.wp.com/mydelsu.com/wp-content/uploads/2022/05/software-developer-g42c807283_1920-1.jpg?fit=1920%2C1281&ssl=1">
 - 🔭 I’m currently working on **Object detection**
 
